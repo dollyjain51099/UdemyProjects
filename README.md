@@ -4,6 +4,9 @@
 The course includes over 50 hours of HD video tutorials and helped me build my programming knowledge while making real-world websites and web apps.
 This comprehensive course helped me to cover a massive amount of tools and technologies, including:
 
+![image](https://user-images.githubusercontent.com/54888610/125988805-29c142a2-e079-4f9d-8c1c-99d6a38e21f4.png)
+
+
 Front-End Web Development
 
 -> HTML 5
